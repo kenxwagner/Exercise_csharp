@@ -1,0 +1,6 @@
+C:\Users\ken.wagner\Documents\Visual Studio 2015\Projects\DecisionApp1\DecisionApp1\bin\Debug\DecisionApp1.exe.config
+C:\Users\ken.wagner\Documents\Visual Studio 2015\Projects\DecisionApp1\DecisionApp1\bin\Debug\DecisionApp1.exe
+C:\Users\ken.wagner\Documents\Visual Studio 2015\Projects\DecisionApp1\DecisionApp1\bin\Debug\DecisionApp1.pdb
+C:\Users\ken.wagner\Documents\Visual Studio 2015\Projects\DecisionApp1\DecisionApp1\obj\Debug\DecisionApp1.csprojResolveAssemblyReference.cache
+C:\Users\ken.wagner\Documents\Visual Studio 2015\Projects\DecisionApp1\DecisionApp1\obj\Debug\DecisionApp1.exe
+C:\Users\ken.wagner\Documents\Visual Studio 2015\Projects\DecisionApp1\DecisionApp1\obj\Debug\DecisionApp1.pdb
